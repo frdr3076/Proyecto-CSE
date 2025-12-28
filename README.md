@@ -14,4 +14,11 @@ se la compara con el recibido y se lo envía al Sensor Side un mensaje de confir
 
 Por último utilizando comandos AT, se envía información recibida a un módulo emisor LORA.
 
+![](images/Maquina_de_estados_recepción_trama.png)
+![](images/sensor_side_diagrama_flujo.png)
+![](images/sensor_side_reenvio_de_datos_para_confirmacion.png)
+![](images/conexionado_max485.png)
+![](images/Imagen_Conexionado.png)
+
+
 
